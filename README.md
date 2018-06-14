@@ -5,5 +5,5 @@ Manual de usuario se llama CREACION Y DESPLIEGUE DE UNA VERTICAL EN UN SERVIDOR 
 
 Esta en formato .pdf y .doc
 
-#Imagen Docker creada
+# Imagen Docker creada
 oscaralv/examen02
