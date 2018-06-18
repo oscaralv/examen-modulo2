@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 public class TestMyController extends AbstractVerticle {
     private static final Logger logger = Logger.getLogger(TestMyController.class);
     
-    @Test
+    //@Test
     public void ok() throws Exception {
         String result = sendGet("https://www.binance.com/api/v3/ticker/price?symbol=BTCUSDT");	
 	logger.info(result);
